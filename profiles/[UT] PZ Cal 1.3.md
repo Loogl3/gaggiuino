@@ -1,8 +1,8 @@
-Utility profile - Profile to calibrate PZ
+Utility profile - PZ Calibration
 
-**Preparation:**
-- Turn off Brew/Temperature Delta (Save)
-- Turn off BT Scales, HW Scales, turn on Forced Predictive (Save)
+**Setup:**
+- Turn off Brew/Temperature Delta; save
+- Turn off BT Scales, HW Scales, turn on Forced Predictive; save
 - Optional: set PZ Cal to the startup profile so boiler doesn't heat on boot
 - Reboot (otherwise Brew Delta stays on)
 - Wait for temp <25 C
@@ -16,8 +16,8 @@ Utility profile - Profile to calibrate PZ
 - Weigh cup + water after the shot. Target is 100 g; adjust PZ up if weight is over and down if weight is under 
 - Repeat test steps as needed
 
-**Finishing:**
-- Reset Brew/Temperature Delta (Save)
-- Turn on desired Scales option, turn off others (Save)
-- Reset startup profile
+**Reset:**
+- Reset Brew/Temperature Delta; save
+- Turn on desired Scales option, turn off others; save
+- Reset startup profile if changed
 - Reboot
